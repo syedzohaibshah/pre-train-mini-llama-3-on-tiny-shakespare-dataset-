@@ -5,5 +5,5 @@ Model Architecture
 
 Model Output : 
 
-![Model output ](./model-output.jpeg)
+![Model output ](./model-output.jpg)
 

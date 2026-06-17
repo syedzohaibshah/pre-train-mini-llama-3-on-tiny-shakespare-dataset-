@@ -1,1 +1,2 @@
-![Project Diagram](./lamma 3.excalidraw.excalidraw.svg)
+![Llama 3 Diagram](./llama%203.excalidraw.excalidraw.svg)
+
